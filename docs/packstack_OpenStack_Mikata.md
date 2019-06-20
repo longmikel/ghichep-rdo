@@ -2,7 +2,7 @@
 
 
 ## 1. Các bước chuẩn bị
-### 1.1. Giới thiệu
+### 1.1. Giới thiệ
 
 - Lưu ý: Trong tài liệu này chỉ thực hiện cài đặt OpenStack, bước cài đặt CEPH ở tài liệu khác.
 - Packstack là một công cụ cài đặt OpenStack nhanh chóng.
